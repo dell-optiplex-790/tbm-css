@@ -101,9 +101,9 @@ img{
   image-rendering: crisp-edges;
 }
 
-#trollbox_nick_btn, #roundedsend {
+button {
   font-family: Consolas, monospace;
-  font-size: +1
+  font-size: +2 !important
 }
 
 
