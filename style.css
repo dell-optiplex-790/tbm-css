@@ -1,7 +1,7 @@
 form { width: 100%; }
 #trollbox {
-  font-family: Consolas, monospace;
-  font-size: small;
+  font-family: Consolas, monospace !important;
+  font-size: small !important;
 }
 #trollbox_scroll {
   background-color: #222;
