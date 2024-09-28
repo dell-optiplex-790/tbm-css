@@ -41,7 +41,7 @@ form { width: 100%; }
 }
 .trollbox_line_bot {
   padding: 0 5px;
-  font-family: sans-serif;
+  font-family: Consolas, monospace;
   color: #ddd;
   font-style: italic;
 }
