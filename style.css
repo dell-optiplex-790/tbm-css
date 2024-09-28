@@ -101,6 +101,11 @@ img{
   image-rendering: crisp-edges;
 }
 
+#trollbox_nick_btn, #roundedsend {
+  font-family: Consolas, monospace;
+  font-size: +1
+}
+
 
 /*
 #emoticons{
